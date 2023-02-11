@@ -1,0 +1,222 @@
+[
+	{
+		"category": "Entertainment: Television",
+		"data": [
+			{
+				"type": "multiple",
+				"difficulty": "easy",
+				"question": "Guy's Grocery Games is hosted by which presenter?",
+				"correct_answer": "Guy Fieri",
+				"incorrect_answers": [
+					"Guy Martin",
+					"Guy Ritchie",
+					"Ainsley Harriott"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "hard",
+				"question": "In 'It's Always Sunny in Philadelphia' what was the name of Frank's wrestling persona?",
+				"correct_answer": "The Trash Man",
+				"incorrect_answers": [
+					"Bird of War",
+					"Day Man",
+					"The Maniac"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "easy",
+				"question": "The 'Psycho' series of videos on YouTube was created by which of the following?",
+				"correct_answer": "RiDGiD STUDiOS",
+				"incorrect_answers": [
+					"Dan Bell",
+					"Billy Familia",
+					"VeganGainz"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "medium",
+				"question": "In 'The Big Bang Theory', what is Howard Wolowitz's nickname in World of Warcraft?",
+				"correct_answer": "Wolowizard",
+				"incorrect_answers": [
+					"Sheldor",
+					"Rajesh",
+					"Priya"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "medium",
+				"question": "What is the name of the &quot;Flash&quot; and &quot;Arrow&quot; spinoff featuring a team of characters that have appeared on both shows?",
+				"correct_answer": "Legends of Tomorrow",
+				"incorrect_answers": [
+					"Heroes of Tomorrow",
+					"The Justice Society of America",
+					"The Justice Society"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "easy",
+				"question": "Who won Big Brother 2014 UK?",
+				"correct_answer": "Helen Wood",
+				"incorrect_answers": [
+					"Christopher Hall",
+					"Pauline Bennett",
+					"Pavandeep &quot;Pav&quot; Paul"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "easy",
+				"question": "In season one of the Netflix political drama &quot;House of Cards&quot;, what government position does Frank Underwood hold?",
+				"correct_answer": "House Majority Whip",
+				"incorrect_answers": [
+					"Attorney General",
+					"President",
+					"Chief of Staff"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "medium",
+				"question": "How many seasons did the TV show &quot;Donkey Kong Country&quot; last?",
+				"correct_answer": "2",
+				"incorrect_answers": [
+					"1",
+					"4",
+					"5"
+				]
+			},
+			{
+				"type": "boolean",
+				"difficulty": "easy",
+				"question": "In &quot;Doctor Who&quot;, the Doctor gets his TARDIS by stealing it.",
+				"correct_answer": "True",
+				"incorrect_answers": [
+					"False"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "easy",
+				"question": "In the cartoon 'SpongeBob SquarePants', what did the acronym E.V.I.L stand for?",
+				"correct_answer": "Every Villain Is Lemons",
+				"incorrect_answers": [
+					"Every Villain Is Lemonade",
+					"Every Villain Is Limes",
+					"Each Villain Is Lemonade"
+				]
+			}
+		]
+	},
+	{
+		"category": "General Knowledge",
+		"data": [
+			{
+				"type": "boolean",
+				"difficulty": "easy",
+				"question": "French is an official language in Canada.",
+				"correct_answer": "True",
+				"incorrect_answers": [
+					"False"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "easy",
+				"question": "What word represents the letter 'T' in the NATO phonetic alphabet?",
+				"correct_answer": "Tango",
+				"incorrect_answers": [
+					"Target",
+					"Taxi",
+					"Turkey"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "easy",
+				"question": "What type of animal was Harambe, who was shot after a child fell into it's enclosure at the Cincinnati Zoo?",
+				"correct_answer": "Gorilla",
+				"incorrect_answers": [
+					"Tiger",
+					"Panda",
+					"Crocodile"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "easy",
+				"question": "How many colors are there in a rainbow?",
+				"correct_answer": "7",
+				"incorrect_answers": [
+					"8",
+					"9",
+					"10"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "medium",
+				"question": "After how many years would you celebrate your crystal anniversary?",
+				"correct_answer": "15",
+				"incorrect_answers": [
+					"20",
+					"10",
+					"25"
+				]
+			},
+			{
+				"type": "boolean",
+				"difficulty": "medium",
+				"question": "Cucumbers are usually more than 90% water.",
+				"correct_answer": "True",
+				"incorrect_answers": [
+					"False"
+				]
+			},
+			{
+				"type": "boolean",
+				"difficulty": "easy",
+				"question": "The color orange is named after the fruit.",
+				"correct_answer": "True",
+				"incorrect_answers": [
+					"False"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "medium",
+				"question": "On average, Americans consume 100 pounds of what per second?",
+				"correct_answer": "Chocolate",
+				"incorrect_answers": [
+					"Potatoes",
+					"Donuts",
+					"Cocaine"
+				]
+			},
+			{
+				"type": "multiple",
+				"difficulty": "easy",
+				"question": "Five dollars is worth how many nickles?",
+				"correct_answer": "100",
+				"incorrect_answers": [
+					"50",
+					"25",
+					"69"
+				]
+			},
+			{
+				"type": "boolean",
+				"difficulty": "medium",
+				"question": "&quot;Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.&quot; is a grammatically correct sentence.",
+				"correct_answer": "True",
+				"incorrect_answers": [
+					"False"
+				]
+			}
+		]
+	}
+]
